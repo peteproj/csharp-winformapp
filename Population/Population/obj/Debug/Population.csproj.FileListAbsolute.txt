@@ -1,0 +1,11 @@
+H:\Downloads\code\c# project\Population\Population\obj\Debug\Population.csproj.AssemblyReference.cache
+H:\Downloads\code\c# project\Population\Population\obj\Debug\Population.csproj.SuggestedBindingRedirects.cache
+H:\Downloads\code\c# project\Population\Population\obj\Debug\Population.Form1.resources
+H:\Downloads\code\c# project\Population\Population\obj\Debug\Population.Properties.Resources.resources
+H:\Downloads\code\c# project\Population\Population\obj\Debug\Population.csproj.GenerateResource.cache
+H:\Downloads\code\c# project\Population\Population\obj\Debug\Population.csproj.CoreCompileInputs.cache
+H:\Downloads\code\c# project\Population\Population\bin\Debug\Population.exe.config
+H:\Downloads\code\c# project\Population\Population\bin\Debug\Population.exe
+H:\Downloads\code\c# project\Population\Population\bin\Debug\Population.pdb
+H:\Downloads\code\c# project\Population\Population\obj\Debug\Population.exe
+H:\Downloads\code\c# project\Population\Population\obj\Debug\Population.pdb

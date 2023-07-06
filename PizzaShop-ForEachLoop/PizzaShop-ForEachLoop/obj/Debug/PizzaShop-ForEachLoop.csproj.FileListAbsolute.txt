@@ -1,0 +1,9 @@
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\bin\Debug\PizzaShop-ForEachLoop.exe.config
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\bin\Debug\PizzaShop-ForEachLoop.exe
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\bin\Debug\PizzaShop-ForEachLoop.pdb
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\obj\Debug\PizzaShop-ForEachLoop.csprojResolveAssemblyReference.cache
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\obj\Debug\PizzaShop_ForEachLoop.Form1.resources
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\obj\Debug\PizzaShop_ForEachLoop.Properties.Resources.resources
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\obj\Debug\PizzaShop-ForEachLoop.csproj.GenerateResource.Cache
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\obj\Debug\PizzaShop-ForEachLoop.exe
+I:\2020\Fall 2020\TEC 151\PizzaShop-ForEachLoop\PizzaShop-ForEachLoop\obj\Debug\PizzaShop-ForEachLoop.pdb

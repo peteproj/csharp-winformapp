@@ -1,0 +1,11 @@
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\obj\Debug\Geoff Auto By Peter Nguyen.csproj.AssemblyReference.cache
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\obj\Debug\Geoff Auto By Peter Nguyen.csproj.SuggestedBindingRedirects.cache
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\obj\Debug\Geoff_Auto_By_Peter_Nguyen.Form1.resources
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\obj\Debug\Geoff_Auto_By_Peter_Nguyen.Properties.Resources.resources
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\obj\Debug\Geoff Auto By Peter Nguyen.csproj.GenerateResource.cache
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\obj\Debug\Geoff Auto By Peter Nguyen.csproj.CoreCompileInputs.cache
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\bin\Debug\Geoff Auto By Peter Nguyen.exe.config
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\bin\Debug\Geoff Auto By Peter Nguyen.exe
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\bin\Debug\Geoff Auto By Peter Nguyen.pdb
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\obj\Debug\Geoff Auto By Peter Nguyen.exe
+H:\Downloads\code\c# project\Geoff Auto By Peter Nguyen\obj\Debug\Geoff Auto By Peter Nguyen.pdb

@@ -1,0 +1,11 @@
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\bin\Debug\Peter Nguyen fat percentage.exe.config
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\bin\Debug\Peter Nguyen fat percentage.exe
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\bin\Debug\Peter Nguyen fat percentage.pdb
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\obj\Debug\Peter Nguyen fat percentage.csproj.AssemblyReference.cache
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\obj\Debug\Peter Nguyen fat percentage.csproj.SuggestedBindingRedirects.cache
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\obj\Debug\Peter_Nguyen_fat_percentage.Form1.resources
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\obj\Debug\Peter_Nguyen_fat_percentage.Properties.Resources.resources
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\obj\Debug\Peter Nguyen fat percentage.csproj.GenerateResource.cache
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\obj\Debug\Peter Nguyen fat percentage.csproj.CoreCompileInputs.cache
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\obj\Debug\Peter Nguyen fat percentage.exe
+H:\Downloads\code\c# project\Peter Nguyen fat percentage\Peter Nguyen fat percentage\obj\Debug\Peter Nguyen fat percentage.pdb
