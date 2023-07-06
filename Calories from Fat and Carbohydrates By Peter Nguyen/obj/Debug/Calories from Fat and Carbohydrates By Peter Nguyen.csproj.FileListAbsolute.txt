@@ -1,0 +1,11 @@
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\bin\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.exe.config
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\bin\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.exe
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\bin\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.pdb
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\obj\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.csproj.AssemblyReference.cache
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\obj\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.csproj.SuggestedBindingRedirects.cache
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\obj\Debug\Calories_from_Fat_and_Carbohydrates_By_Peter_Nguyen.Form1.resources
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\obj\Debug\Calories_from_Fat_and_Carbohydrates_By_Peter_Nguyen.Properties.Resources.resources
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\obj\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.csproj.GenerateResource.cache
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\obj\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.csproj.CoreCompileInputs.cache
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\obj\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.exe
+H:\Downloads\code\c# project\Calories from Fat and Carbohydrates By Peter Nguyen\obj\Debug\Calories from Fat and Carbohydrates By Peter Nguyen.pdb

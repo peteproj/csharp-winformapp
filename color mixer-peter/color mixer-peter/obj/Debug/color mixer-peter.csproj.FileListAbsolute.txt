@@ -1,0 +1,11 @@
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\bin\Debug\color mixer-peter.exe.config
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\bin\Debug\color mixer-peter.exe
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\bin\Debug\color mixer-peter.pdb
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\obj\Debug\color mixer-peter.csproj.AssemblyReference.cache
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\obj\Debug\color mixer-peter.csproj.SuggestedBindingRedirects.cache
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\obj\Debug\color_mixer_peter.Form1.resources
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\obj\Debug\color_mixer_peter.Properties.Resources.resources
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\obj\Debug\color mixer-peter.csproj.GenerateResource.cache
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\obj\Debug\color mixer-peter.csproj.CoreCompileInputs.cache
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\obj\Debug\color mixer-peter.exe
+H:\Downloads\code\c# project\color mixer-peter\color mixer-peter\obj\Debug\color mixer-peter.pdb

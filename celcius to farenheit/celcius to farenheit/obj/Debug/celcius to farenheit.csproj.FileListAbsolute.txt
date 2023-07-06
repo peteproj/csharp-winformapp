@@ -1,0 +1,11 @@
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\bin\Debug\celcius to farenheit.exe.config
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\bin\Debug\celcius to farenheit.exe
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\bin\Debug\celcius to farenheit.pdb
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\obj\Debug\celcius to farenheit.csproj.AssemblyReference.cache
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\obj\Debug\celcius to farenheit.csproj.SuggestedBindingRedirects.cache
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\obj\Debug\celcius_to_farenheit.Form1.resources
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\obj\Debug\celcius_to_farenheit.Properties.Resources.resources
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\obj\Debug\celcius to farenheit.csproj.GenerateResource.cache
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\obj\Debug\celcius to farenheit.csproj.CoreCompileInputs.cache
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\obj\Debug\celcius to farenheit.exe
+H:\Downloads\code\c# project\celcius to farenheit\celcius to farenheit\obj\Debug\celcius to farenheit.pdb
